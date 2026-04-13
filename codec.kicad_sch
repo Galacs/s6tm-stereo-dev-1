@@ -2093,6 +2093,12 @@
 		(uuid "18428b71-574f-42fb-aeed-7a3e648b99a2")
 	)
 	(junction
+		(at 176.53 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "042436bb-d9cf-4039-8735-1067caab470d")
+	)
+	(junction
 		(at 147.32 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2139,6 +2145,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59519cc0-49c5-4794-80be-48f9b9422de4")
+	)
+	(junction
+		(at 176.53 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2079f5c-0ed4-4cef-9059-0e8d714f2315")
 	)
 	(junction
 		(at 139.7 81.28)
@@ -2328,6 +2340,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 101.6) (xy 176.53 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e51c7ea-a0bd-4b44-a6b4-950a070b89c5")
+	)
+	(wire
+		(pts
 			(xy 163.83 72.39) (xy 167.64 72.39)
 		)
 		(stroke
@@ -2375,6 +2397,16 @@
 			(type default)
 		)
 		(uuid "326e9c28-df8d-46ef-bde6-21ac010ce326")
+	)
+	(wire
+		(pts
+			(xy 176.53 102.87) (xy 184.15 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3432309d-64a3-4fe1-976d-1c2d957c8f25")
 	)
 	(wire
 		(pts
@@ -2498,7 +2530,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 102.87) (xy 184.15 102.87)
+			(xy 173.99 102.87) (xy 176.53 102.87)
 		)
 		(stroke
 			(width 0)
@@ -2525,6 +2557,16 @@
 			(type default)
 		)
 		(uuid "5edeb60d-0fef-4d25-b00a-9d42faf6e428")
+	)
+	(wire
+		(pts
+			(xy 176.53 106.68) (xy 176.53 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "638dbeb1-21e7-45dc-b097-7ad4b0140857")
 	)
 	(wire
 		(pts
@@ -2685,6 +2727,26 @@
 			(type default)
 		)
 		(uuid "950233ed-536e-45c9-a900-b1dfa9a45f6f")
+	)
+	(wire
+		(pts
+			(xy 177.8 106.68) (xy 176.53 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "950bbe18-353a-4f06-b0d9-371c89b45e6c")
+	)
+	(wire
+		(pts
+			(xy 176.53 101.6) (xy 177.8 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d1d8b50-d216-405e-9653-6b67c6997d8b")
 	)
 	(wire
 		(pts
@@ -3060,6 +3122,17 @@
 		)
 		(uuid "6f55ed84-fcae-4506-a91e-6751667c08f8")
 	)
+	(hierarchical_label "HPL"
+		(shape output)
+		(at 177.8 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "71c074fc-b990-4f10-b07d-a20d0058b6ad")
+	)
 	(hierarchical_label "GPIO1"
 		(shape bidirectional)
 		(at 123.19 120.65 180)
@@ -3092,6 +3165,17 @@
 			(justify right)
 		)
 		(uuid "cf0f587c-4a58-455a-acca-4be52ed56c24")
+	)
+	(hierarchical_label "HPR"
+		(shape output)
+		(at 177.8 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d0e903b4-09a0-48ea-914a-508c3fff86f5")
 	)
 	(hierarchical_label "DIN"
 		(shape input)
