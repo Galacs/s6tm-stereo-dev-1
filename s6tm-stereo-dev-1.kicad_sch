@@ -18565,8 +18565,8 @@
 		)
 	)
 	(sheet
-		(at 92.71 93.98)
-		(size 12.7 13.97)
+		(at 92.71 91.44)
+		(size 12.7 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -18581,7 +18581,7 @@
 		)
 		(uuid "4cb8bb37-39af-4125-bddf-edec04b213be")
 		(property "Sheetname" "Codec"
-			(at 92.71 93.2684 0)
+			(at 92.71 90.7284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18592,7 +18592,7 @@
 			)
 		)
 		(property "Sheetfile" "codec.kicad_sch"
-			(at 92.71 108.5346 0)
+			(at 92.71 122.5046 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18601,6 +18601,96 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "BCLK" bidirectional
+			(at 92.71 109.22 180)
+			(uuid "7c23c83d-9906-48e0-b52f-0f443c431fb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 92.71 101.6 180)
+			(uuid "d50b00b9-500a-40e9-af0c-5be04bad85ff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO1" bidirectional
+			(at 92.71 93.98 180)
+			(uuid "1a6c106b-6ee2-4cd5-bccb-f175bdb08e92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DIN" input
+			(at 92.71 114.3 180)
+			(uuid "1acc4fa9-0dc6-4db4-827e-0734e0cdaafa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCLK" input
+			(at 92.71 116.84 180)
+			(uuid "53c728d5-3a1b-4e30-b5be-4e598835ec10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" input
+			(at 92.71 104.14 180)
+			(uuid "0cce2b7d-e60f-4a9e-9b70-0e18784397ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "WCLK" bidirectional
+			(at 92.71 119.38 180)
+			(uuid "79f2c00a-a3e1-4d2c-a3a3-8d113ae0654b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DOUT" output
+			(at 92.71 111.76 180)
+			(uuid "e891dbd3-8495-4832-941c-9ee56e029d95")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "~{RESET}" input
+			(at 92.71 96.52 180)
+			(uuid "1fd55218-2002-4036-9c88-1e71d76ada43")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
