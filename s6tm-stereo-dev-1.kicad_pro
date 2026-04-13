@@ -452,13 +452,17 @@
         "uuid": "41fad0d7-0cae-453e-a16c-bdf8be036e99"
       }
     ],
-    "used_designators": "TP4-7,R1-4,R11,R14,R16-25,L1-5,J3,J10,D1-2,D4-5,C6-31,AE1,Y1,#PWR1-2,#PWR10-11,#PWR13,#PWR15,#PWR17,#PWR20-21,#PWR25-71,#FLG4-5,U1-6",
+    "used_designators": "TP4-7,R1-4,R11,R14,R16-25,L1-5,J3,J10,D1-2,D4-5,C6-40,AE1,Y1,#PWR1-5,#PWR10-11,#PWR13,#PWR15,#PWR17,#PWR20-21,#PWR25-77,#FLG4-5,U1-7",
     "variants": []
   },
   "sheets": [
     [
       "41fad0d7-0cae-453e-a16c-bdf8be036e99",
       "Root"
+    ],
+    [
+      "4cb8bb37-39af-4125-bddf-edec04b213be",
+      "Codec"
     ]
   ],
   "text_variables": {},
