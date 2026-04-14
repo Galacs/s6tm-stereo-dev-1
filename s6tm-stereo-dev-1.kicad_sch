@@ -17244,6 +17244,16 @@
 				(justify left top)
 			)
 		)
+		(pin "PG" input
+			(at 107.95 96.52 180)
+			(uuid "7cc9a534-6539-46b8-a2f2-ad2f3dc5f8ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"

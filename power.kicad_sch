@@ -4128,6 +4128,12 @@
 		(uuid "ad99aab8-b3e1-450b-96e4-92d5c1ec9425")
 	)
 	(junction
+		(at 74.93 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af0092b0-91ff-4efe-ad63-0840a9aa0a72")
+	)
+	(junction
 		(at 182.88 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5653,6 +5659,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 123.19) (xy 74.93 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4aa714e-c7b9-490e-bfed-64a7c08ebf3f")
+	)
+	(wire
+		(pts
 			(xy 205.74 102.87) (xy 205.74 100.33)
 		)
 		(stroke
@@ -5893,7 +5909,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 120.65) (xy 74.93 127)
+			(xy 74.93 120.65) (xy 74.93 123.19)
 		)
 		(stroke
 			(width 0)
@@ -6193,7 +6209,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 120.65) (xy 74.93 120.65)
+			(xy 74.93 120.65) (xy 78.74 120.65)
 		)
 		(stroke
 			(width 0)
@@ -6333,6 +6349,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 123.19) (xy 74.93 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff9145e2-86fa-4203-9405-80be979d812b")
+	)
+	(wire
+		(pts
 			(xy 240.03 35.56) (xy 240.03 36.83)
 		)
 		(stroke
@@ -6340,6 +6366,17 @@
 			(type default)
 		)
 		(uuid "ffaac039-9446-4ac2-9036-7d59894561b7")
+	)
+	(hierarchical_label "PG"
+		(shape input)
+		(at 73.66 123.19 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "82d3fe3f-58a0-4a3c-a43b-bece179ba693")
 	)
 	(symbol
 		(lib_id "power:+5V")
@@ -12145,7 +12182,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 69.85 124.46 90)
+			(at 68.072 124.714 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
