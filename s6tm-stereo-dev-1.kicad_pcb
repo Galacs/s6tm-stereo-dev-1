@@ -864,15 +864,15 @@
 			(uuid "9a2a0c11-24ba-4215-8fe6-9d953de0e4a0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-40xx.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/B3F-4055.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 6.3 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1386,15 +1386,15 @@
 			(uuid "ae6bb461-0027-45f9-b8fc-6ecff60e20ab")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-40xx.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/B3F-4055.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 6.3 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -6092,15 +6092,15 @@
 			(uuid "1b081994-57da-41c0-8711-0d19cda801cd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_3.5mm_KoreanHropartsElec_PJ-320D-4A_Horizontal.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/PJ-320D-A.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz -1.25 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -8527,7 +8527,7 @@
 			(uuid "83509316-38e1-4037-9b6e-6146b2ef5280")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Single.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/SIS412DN-T1-GE3.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20049,7 +20049,7 @@
 			(uuid "76a390cf-0a2e-4bcc-ac52-b5f2935679c3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_Shouhan_MSK12C02.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/MSK12C02.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20057,7 +20057,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -28103,15 +28103,15 @@
 			(uuid "e904e894-34b0-4010-8ca2-5aebef3a8422")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-40xx.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/B3F-4055.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 6.3 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -33404,7 +33404,7 @@
 			(uuid "5c770c79-52f6-4f56-a695-ef54608184f8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.step"
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -36082,7 +36082,7 @@
 			(uuid "50a70280-eaf9-493b-bc49-e41848475f56")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/VQFN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_RHB0032E_VQFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -37612,15 +37612,15 @@
 			(uuid "7f62acb3-d109-45cd-8c21-c01facb5f27d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/EC11E-05SW.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.4 -2.3 -11.9)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -39256,15 +39256,15 @@
 			(uuid "6af1eec0-b9f8-4c00-92d0-8773f3031827")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-40xx.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/B3F-4055.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 6.3 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -42514,7 +42514,7 @@
 			(uuid "c1cf9137-8325-4082-a01c-251547ee1aa1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/Vishay_PowerPAK_1212-8_Single.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/SIS412DN-T1-GE3.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45434,7 +45434,6 @@
 		)
 		(embedded_fonts no)
 		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/MicroSD_Socket.STEP"
-			(opacity 0.7400)
 			(offset
 				(xyz 0 -5.35 0)
 			)
@@ -45938,15 +45937,15 @@
 			(uuid "b753e5bf-ef01-4b48-b2ea-1e955f7ff9a6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_SPST_Omron_B3F-40xx.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/B3F-4055.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 6.3 -2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
