@@ -11691,7 +11691,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 69.85 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -11746,7 +11746,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C2286"
+		(property "JLCPCB Part #" "NCD0805R1"
 			(at 69.85 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -11757,7 +11757,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Hubei KENTO Elec "
+		(property "Manufacturer" "Foshan NationStar Optoelectronics"
 			(at 69.85 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -11768,7 +11768,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "KT-0603R"
+		(property "Manufacturer Part Number" "NCD0805R1"
 			(at 69.85 130.81 90)
 			(hide yes)
 			(show_name no)
