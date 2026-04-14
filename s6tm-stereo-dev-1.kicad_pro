@@ -364,25 +364,25 @@
       "/WCLK": [
         "I2S"
       ],
-      "Net-(J2-DET)": [
+      "Net-(J1-DET)": [
         "SDIO"
       ],
-      "Net-(U4-GPIO33)": [
+      "Net-(U1-GPIO33)": [
         "SDIO"
       ],
-      "Net-(U4-GPIO34)": [
+      "Net-(U1-GPIO34)": [
         "SDIO"
       ],
-      "Net-(U4-GPIO35)": [
+      "Net-(U1-GPIO35)": [
         "SDIO"
       ],
-      "Net-(U4-GPIO36)": [
+      "Net-(U1-GPIO36)": [
         "SDIO"
       ],
-      "Net-(U4-GPIO37)": [
+      "Net-(U1-GPIO37)": [
         "SDIO"
       ],
-      "Net-(U4-SPICLK_P{slash}GPIO47)": [
+      "Net-(U1-SPICLK_P{slash}GPIO47)": [
         "SDIO"
       ]
     },
@@ -605,7 +605,7 @@
         "uuid": "41fad0d7-0cae-453e-a16c-bdf8be036e99"
       }
     ],
-    "used_designators": "Q1-2,U2-3,U5-6,U8-10,JP1-3,TP1-20,R3-4,R10,R12-13,R20-25,R30-52,R61,#FLG3,#FLG6-8,SW1-10,J2,J4,J9,J11,#PWR1-2,#PWR6-9,#PWR12,#PWR14,#PWR16,#PWR18-19,#PWR21-28,#PWR32-33,#PWR35-40,#PWR42-44,#PWR47-48,#PWR67-71,#PWR89-125,L6-10,D6,D9-17,C1-4,C6,C9-11,C22-23,C30-31,C45-62",
+    "used_designators": "C1-62,L1-10,Y1,#PWR1-125,J1-9,J11,AE1,SW1-10,MK1,#FLG1-8,R1-52,R61,TP1-20,JP1-3,D1-17,U1-10,Q1-2",
     "variants": []
   },
   "sheets": [

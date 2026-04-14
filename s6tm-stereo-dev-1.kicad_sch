@@ -10555,7 +10555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0177b794-e8d2-47d7-bb49-7e03153caed9")
-		(property "Reference" "R17"
+		(property "Reference" "R16"
 			(at 134.62 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10661,7 +10661,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R17")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -10679,7 +10679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02baff51-38b2-443a-81ba-3ec77e064c01")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 93.345 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10810,7 +10810,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -10827,7 +10827,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0348cd0c-791a-47ba-8f7a-4deb7eba2591")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR053"
 			(at 274.32 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -10887,7 +10887,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR022")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -10904,7 +10904,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08023427-da52-42e8-b685-175e37f4c062")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR028"
 			(at 153.67 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -10964,7 +10964,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR064")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -10981,7 +10981,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "089c4a51-eb3d-4f72-8fa1-98bde3c1b270")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR09"
 			(at 54.61 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -11041,7 +11041,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR051")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -11059,7 +11059,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08edabc0-4452-41a9-ad9e-918bff11c114")
-		(property "Reference" "C4"
+		(property "Reference" "C2"
 			(at 45.212 178.054 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11167,7 +11167,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C4")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -11185,7 +11185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0935564b-bafc-48ae-8bd7-df8ea3c3c130")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR019"
 			(at 114.3 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11245,7 +11245,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR059")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -11263,7 +11263,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c46bcda-c60b-4ad1-98d6-15ba7347942e")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR034"
 			(at 229.87 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -11323,7 +11323,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0105")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -11340,7 +11340,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e1bd1f5-98ba-471a-a041-3fcfb3b0ad60")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR038"
 			(at 246.38 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -11401,7 +11401,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0115")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -11419,7 +11419,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "10abf53a-fb98-414b-86b3-36441f0e9153")
-		(property "Reference" "SW5"
+		(property "Reference" "SW2"
 			(at 199.898 106.426 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11526,7 +11526,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "SW5")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -11543,7 +11543,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "11ab22c1-0a21-4c71-8d6f-2158a3d9a0da")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR07"
 			(at 48.26 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -11604,7 +11604,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR049")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -11622,7 +11622,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14343e9d-63bd-4b27-9380-a8fe4b8832e9")
-		(property "Reference" "R47"
+		(property "Reference" "R10"
 			(at 59.182 167.894 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11728,7 +11728,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R47")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -11746,7 +11746,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "144e190c-59cc-438d-a6f7-be433f542b56")
-		(property "Reference" "C62"
+		(property "Reference" "C14"
 			(at 186.69 149.8599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11854,7 +11854,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C62")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -11872,7 +11872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "162e9790-31ec-4b40-a2d8-b91a43056c82")
-		(property "Reference" "D15"
+		(property "Reference" "D5"
 			(at 261.62 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11991,7 +11991,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D15")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -12009,7 +12009,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1902c299-b4ce-4e14-ad56-fb284dda4539")
-		(property "Reference" "D12"
+		(property "Reference" "D2"
 			(at 234.95 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12128,7 +12128,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D12")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -12145,7 +12145,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1aeb7a62-1b96-4373-8167-3d38a2b12adb")
-		(property "Reference" "R52"
+		(property "Reference" "R4"
 			(at 58.166 146.812 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12251,7 +12251,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R52")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -12268,7 +12268,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1b5f3fea-962f-4bba-be21-3b900fde3e54")
-		(property "Reference" "TP12"
+		(property "Reference" "TP9"
 			(at 168.91 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12374,7 +12374,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP12")
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -12391,7 +12391,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ca0da7c-f7c8-4614-8a53-62e84d57e132")
-		(property "Reference" "R50"
+		(property "Reference" "R6"
 			(at 63.246 146.812 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12497,7 +12497,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R50")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -12515,7 +12515,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1f80b034-1262-49d4-9dbe-dc1f97db5d21")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR045"
 			(at 261.62 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -12576,7 +12576,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR013")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -12724,7 +12724,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "213b2a51-6e3f-4a8d-b41f-fd7b7f1bb66d")
-		(property "Reference" "TP16"
+		(property "Reference" "TP5"
 			(at 168.91 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12830,7 +12830,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP16")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -12847,7 +12847,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "23827f6e-f93c-43a0-8e95-7b46e8d409a7")
-		(property "Reference" "L3"
+		(property "Reference" "L2"
 			(at 23.622 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12912,7 +12912,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "L3")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -12929,7 +12929,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "272e38a4-b71e-463a-add2-18d6cf183369")
-		(property "Reference" "R40"
+		(property "Reference" "R20"
 			(at 144.78 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13035,7 +13035,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R40")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -13052,7 +13052,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "295c1318-f05a-47da-af30-a87af28ac1fd")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR042"
 			(at 256.54 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -13112,7 +13112,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR08")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -13130,7 +13130,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d5688dc-1ef1-49cc-9dc1-05241fce1503")
-		(property "Reference" "R45"
+		(property "Reference" "R8"
 			(at 59.182 162.814 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13236,7 +13236,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R45")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -13254,7 +13254,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e092823-2f22-4736-8a74-0681f415efb0")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR012"
 			(at 71.12 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -13314,7 +13314,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0121")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -13332,7 +13332,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e91ec61-84a7-4186-9b71-4d1a4d057184")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR044"
 			(at 256.54 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -13393,7 +13393,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR011")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -13410,7 +13410,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "31867e6e-310a-44a0-b886-e9bff76ea88a")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR049"
 			(at 270.51 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -13471,7 +13471,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0113")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -13488,7 +13488,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "333cb756-6e1b-4e65-b705-d0139a5f6cef")
-		(property "Reference" "TP18"
+		(property "Reference" "TP3"
 			(at 168.91 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13594,7 +13594,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP18")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -13612,7 +13612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "390a4aa2-f471-4506-9f4a-bc1749a5759c")
-		(property "Reference" "#FLG05"
+		(property "Reference" "#FLG01"
 			(at 83.82 19.685 0)
 			(hide yes)
 			(show_name no)
@@ -13673,7 +13673,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#FLG05")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -13691,7 +13691,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a16c7f9-2218-4f94-a89e-f91dbe97c22a")
-		(property "Reference" "D14"
+		(property "Reference" "D4"
 			(at 250.698 100.076 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13808,7 +13808,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D14")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -13826,7 +13826,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3bcb4696-17a3-46bd-bf1d-5b9af777f3e4")
-		(property "Reference" "R1"
+		(property "Reference" "R26"
 			(at 255.27 128.27 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13932,7 +13932,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R1")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -13949,7 +13949,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c77d5d8-f48c-4b4e-bebb-5b78e776e5d9")
-		(property "Reference" "SW2"
+		(property "Reference" "SW7"
 			(at 261.62 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14065,7 +14065,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "SW2")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -14083,7 +14083,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3edeb5be-6f28-4388-a1e5-41e3b6f12caa")
-		(property "Reference" "R35"
+		(property "Reference" "R28"
 			(at 260.096 93.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14189,7 +14189,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R35")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -14207,7 +14207,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3ff56d24-d265-4edd-9072-5f5cdd439d8b")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR011"
 			(at 64.77 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -14268,7 +14268,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0122")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14286,7 +14286,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "416cb540-53cb-4e6f-aeea-fad3b89d875a")
-		(property "Reference" "R34"
+		(property "Reference" "R25"
 			(at 251.206 93.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14392,7 +14392,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R34")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -14410,7 +14410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "425eaa0e-3a00-4b8b-93bc-9f1b384a164b")
-		(property "Reference" "R49"
+		(property "Reference" "R12"
 			(at 59.182 172.974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14516,7 +14516,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R49")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -14533,7 +14533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4267fbce-12e3-49fd-9720-9d1cacfc5c24")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR03"
 			(at 35.56 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14594,7 +14594,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR046")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -14612,7 +14612,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4491dab4-a4be-4bfa-8d3d-b548ee770358")
-		(property "Reference" "C12"
+		(property "Reference" "C1"
 			(at 38.862 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14720,7 +14720,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C12")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -14738,7 +14738,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4511bf24-500e-4bda-ae29-6b671b95fe0c")
-		(property "Reference" "D16"
+		(property "Reference" "D7"
 			(at 268.478 100.076 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14855,7 +14855,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D16")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -15009,7 +15009,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "46c9712b-132b-439f-a503-990d4125d8ac")
-		(property "Reference" "R41"
+		(property "Reference" "R17"
 			(at 135.128 119.126 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15115,7 +15115,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R41")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -15132,7 +15132,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4843a613-edf5-4094-9207-e2b2cc96a53e")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR010"
 			(at 54.61 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -15194,7 +15194,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR052")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -15213,7 +15213,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "488a142a-a3c6-4973-8f91-38554c3b3feb")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR054"
 			(at 274.32 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -15274,7 +15274,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0114")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -15291,7 +15291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "493e8f0a-f093-4335-bee7-9b8ac7c51e41")
-		(property "Reference" "TP19"
+		(property "Reference" "TP2"
 			(at 166.878 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15352,7 +15352,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP19")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -15370,7 +15370,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a953c63-33d8-43d6-bb3e-fa50ba5854d8")
-		(property "Reference" "L4"
+		(property "Reference" "L3"
 			(at 41.91 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15476,7 +15476,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "L4")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -15493,7 +15493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4d8a9e78-bc65-40bd-a6c7-8adaef060449")
-		(property "Reference" "TP17"
+		(property "Reference" "TP4"
 			(at 168.91 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15599,7 +15599,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP17")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -15616,7 +15616,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4da4a186-3ff2-4ded-9d6c-67ef9e4942ca")
-		(property "Reference" "C16"
+		(property "Reference" "C6"
 			(at 72.136 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15724,7 +15724,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C16")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -15742,7 +15742,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fe5717d-aaa9-4624-b628-780f6ce391e1")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR05"
 			(at 40.64 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -15803,7 +15803,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0125")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -15820,7 +15820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50792a1f-02cc-44fd-b754-ce6359158c02")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR051"
 			(at 270.51 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -15880,7 +15880,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR024")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -15897,7 +15897,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50edac76-580b-4ed2-9d7a-ea69fc3b4f7d")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR017"
 			(at 106.68 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -15959,7 +15959,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR057")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -15976,7 +15976,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "560be678-79c0-4b4d-a00d-59c939deb511")
-		(property "Reference" "TP14"
+		(property "Reference" "TP7"
 			(at 168.91 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16082,7 +16082,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP14")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -16099,7 +16099,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5b99532b-f701-4339-ad07-3a8612332ad8")
-		(property "Reference" "R14"
+		(property "Reference" "R2"
 			(at 40.64 60.452 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16205,7 +16205,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R14")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -16222,7 +16222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5efd99c3-e8d2-4ce2-8ab4-4250bdc78715")
-		(property "Reference" "L1"
+		(property "Reference" "L5"
 			(at 138.176 176.022 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16328,7 +16328,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "L1")
+					(reference "L5")
 					(unit 1)
 				)
 			)
@@ -16345,7 +16345,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f930d98-7be5-4ef3-89ed-ea3ecf843775")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR023"
 			(at 139.7 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -16405,7 +16405,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0119")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -16422,7 +16422,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f99305d-2e6f-4847-897c-6bebfee90148")
-		(property "Reference" "C7"
+		(property "Reference" "C12"
 			(at 140.716 183.896 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16530,7 +16530,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C7")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -16548,7 +16548,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60958d51-cbb1-4f0a-aee8-94238372820f")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR055"
 			(at 276.86 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -16608,7 +16608,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR020")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -16625,7 +16625,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65ec8f67-f4a4-41a0-a693-fde71f919ca1")
-		(property "Reference" "R51"
+		(property "Reference" "R5"
 			(at 60.706 146.812 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16731,7 +16731,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R51")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -16749,7 +16749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "678e123b-eba6-46c3-8037-37395486044a")
-		(property "Reference" "R36"
+		(property "Reference" "R29"
 			(at 268.986 93.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16855,7 +16855,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R36")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -16873,7 +16873,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d094afb-4361-4ab5-a9d4-3d9812d6fb17")
-		(property "Reference" "SW7"
+		(property "Reference" "SW4"
 			(at 199.898 116.586 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16980,7 +16980,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "SW7")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -16997,7 +16997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "70bba77e-333c-4eaa-add6-1612a59ddd2b")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR013"
 			(at 76.2 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -17059,7 +17059,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR060")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -17076,7 +17076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "739789dd-267f-4ef3-8ab3-c5558d4496b9")
-		(property "Reference" "C8"
+		(property "Reference" "C13"
 			(at 155.702 183.642 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17184,7 +17184,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C8")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -17201,7 +17201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "744cfed5-36f5-46f2-ba29-9fee696fd5a5")
-		(property "Reference" "U4"
+		(property "Reference" "U1"
 			(at 103.378 133.096 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17474,7 +17474,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "U4")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -17492,7 +17492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75e98917-a6d1-4fbd-be75-e62436a0e348")
-		(property "Reference" "C21"
+		(property "Reference" "C11"
 			(at 118.11 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17600,7 +17600,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C21")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -17618,7 +17618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b0c0969-ce80-455b-9cee-17e9884429ea")
-		(property "Reference" "D17"
+		(property "Reference" "D1"
 			(at 210.82 149.8599 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17748,7 +17748,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D17")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -17766,7 +17766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c1e2010-ea5e-4e0d-bda3-3ddf5ec33f91")
-		(property "Reference" "R48"
+		(property "Reference" "R11"
 			(at 59.182 170.434 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17872,7 +17872,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R48")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -17889,7 +17889,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f54ab62-e3c6-4ad3-a85c-93971f92be1b")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR039"
 			(at 247.65 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -17949,7 +17949,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR019")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -17967,7 +17967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f761954-a6f7-44f3-bb1c-1bb1829efa3c")
-		(property "Reference" "R32"
+		(property "Reference" "R23"
 			(at 233.426 93.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18073,7 +18073,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R32")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -18091,7 +18091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86712463-6912-4e98-9122-3d60a499acf6")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG03"
 			(at 275.59 128.905 0)
 			(hide yes)
 			(show_name no)
@@ -18152,7 +18152,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#FLG04")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -18171,7 +18171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86cb8b9a-d7ba-42da-9269-3bd6fb9431b7")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR021"
 			(at 114.3 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -18231,7 +18231,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0120")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -18248,7 +18248,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87094f0f-e92b-4965-bcdd-7fce58736d64")
-		(property "Reference" "R43"
+		(property "Reference" "R13"
 			(at 65.786 146.812 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18354,7 +18354,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R43")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -18371,7 +18371,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87177922-d311-4a76-9ab3-d0a15458c4a9")
-		(property "Reference" "R16"
+		(property "Reference" "R15"
 			(at 134.112 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18479,7 +18479,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R16")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -18496,7 +18496,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87953f7b-6028-4ed2-be76-500c6cc3b18a")
-		(property "Reference" "D1"
+		(property "Reference" "D6"
 			(at 263.906 147.066 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18605,7 +18605,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D1")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -18622,7 +18622,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "87c83520-91f8-4f86-bd0e-601911947367")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR030"
 			(at 195.58 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -18682,7 +18682,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR094")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -18699,7 +18699,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88385853-258f-434b-a94a-6b2712cc78ea")
-		(property "Reference" "C20"
+		(property "Reference" "C10"
 			(at 104.14 29.972 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18807,7 +18807,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C20")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -18824,7 +18824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9104ec51-433f-473a-8ea9-904b936b378d")
-		(property "Reference" "TP20"
+		(property "Reference" "TP1"
 			(at 166.878 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18885,7 +18885,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP20")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -18903,7 +18903,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9207c857-60e8-4e1e-80c6-214f24863f87")
-		(property "Reference" "R39"
+		(property "Reference" "R22"
 			(at 212.09 141.478 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19009,7 +19009,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R39")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -19026,7 +19026,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9420fe97-683c-40e3-b2f3-d9c3c374d021")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR01"
 			(at 21.59 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -19087,7 +19087,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR041")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -19105,7 +19105,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95c63a45-9fcf-4e8e-9af7-8a0b8850be53")
-		(property "Reference" "R33"
+		(property "Reference" "R24"
 			(at 242.316 93.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19211,7 +19211,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R33")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -19229,7 +19229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9aac36d7-b6b3-4936-8937-44b1e38dfaaa")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR052"
 			(at 270.51 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -19290,7 +19290,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR017")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -19308,7 +19308,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d5d96ef-77a0-45d8-963b-471800cb9556")
-		(property "Reference" "SW10"
+		(property "Reference" "SW6"
 			(at 199.898 126.746 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19415,7 +19415,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "SW10")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -19432,7 +19432,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e06be70-09ef-4d2b-a70a-5a622011e76a")
-		(property "Reference" "TP15"
+		(property "Reference" "TP6"
 			(at 168.91 52.07 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19538,7 +19538,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP15")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -19555,7 +19555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e2bb360-bcf1-4b0e-9a72-d6a140798c8c")
-		(property "Reference" "R11"
+		(property "Reference" "R1"
 			(at 27.94 48.006 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19661,7 +19661,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R11")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -19679,7 +19679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a083c410-8381-400e-b18f-4e7dd4b2f343")
-		(property "Reference" "C18"
+		(property "Reference" "C8"
 			(at 82.55 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19787,7 +19787,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C18")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -19804,7 +19804,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a12932bf-df09-4574-8d0d-beb154dcb763")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR033"
 			(at 218.44 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -19864,7 +19864,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0117")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -19882,7 +19882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2d70de2-ee6d-45ff-bb7f-f8a10e4c1c6f")
-		(property "Reference" "D4"
+		(property "Reference" "D9"
 			(at 270.764 124.714 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19989,7 +19989,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D4")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -20130,7 +20130,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a47832df-3f90-493c-8f99-6aa764a0517c")
-		(property "Reference" "C13"
+		(property "Reference" "C3"
 			(at 51.562 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20238,7 +20238,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C13")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -20255,7 +20255,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a69a496c-a4b4-4242-b116-5e7d929b0c6d")
-		(property "Reference" "U10"
+		(property "Reference" "U2"
 			(at 258.064 58.166 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20324,7 +20324,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "U10")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -20342,7 +20342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a719d652-a0fa-40ac-8781-2a1da3b5fb33")
-		(property "Reference" "R44"
+		(property "Reference" "R7"
 			(at 59.182 160.274 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20448,7 +20448,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R44")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -20466,7 +20466,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a740559e-742c-4b08-ae47-d8fd6871c9ae")
-		(property "Reference" "#FLG07"
+		(property "Reference" "#FLG02"
 			(at 254 151.765 0)
 			(hide yes)
 			(show_name no)
@@ -20527,7 +20527,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#FLG07")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -20668,7 +20668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8d05ef4-c8f2-4b69-a0ac-b6e02365143e")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR020"
 			(at 114.3 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -20730,7 +20730,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR061")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -20747,7 +20747,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa4486ca-f804-4e2f-8462-59b6288ca9ca")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR022"
 			(at 138.43 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -20808,7 +20808,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR062")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -20825,7 +20825,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac311ac1-0511-46f9-947d-03749d861886")
-		(property "Reference" "R42"
+		(property "Reference" "R14"
 			(at 68.326 146.812 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20931,7 +20931,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R42")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -20948,7 +20948,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac909d98-5976-4fdd-9c09-d51cf5bf1852")
-		(property "Reference" "C19"
+		(property "Reference" "C9"
 			(at 101.6 17.272 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21056,7 +21056,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C19")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -21073,7 +21073,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "adc62339-da6d-4e4a-9879-ddc9766e7a4c")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR046"
 			(at 265.43 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -21133,7 +21133,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0109")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -21150,7 +21150,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aec59314-641f-404a-bcb9-4e4ef9a0eae9")
-		(property "Reference" "C17"
+		(property "Reference" "C7"
 			(at 79.756 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21258,7 +21258,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C17")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -21276,7 +21276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aef5a2ee-7fc5-4908-91b2-dacf52b83986")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR032"
 			(at 199.39 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -21337,7 +21337,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0116")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -21355,7 +21355,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b368fd49-0acd-4a15-bc43-dd49b810f1be")
-		(property "Reference" "SW6"
+		(property "Reference" "SW3"
 			(at 199.898 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21462,7 +21462,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "SW6")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -21480,7 +21480,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b391fd7f-c85a-4ea9-b5b2-ae33d23f6865")
-		(property "Reference" "R61"
+		(property "Reference" "R3"
 			(at 41.402 152.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21588,7 +21588,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R61")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -21606,7 +21606,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b6f7b435-7dff-4cc9-a015-8dc4ecc5a8aa")
-		(property "Reference" "R2"
+		(property "Reference" "R27"
 			(at 255.27 136.906 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21712,7 +21712,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R2")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -21859,7 +21859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcc1811e-6e49-4067-939a-b236cd91f13e")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR014"
 			(at 90.17 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -21920,7 +21920,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR053")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -21937,7 +21937,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd455ae7-36bd-482b-acfd-473f9bd95774")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR016"
 			(at 93.98 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -21997,7 +21997,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR055")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -22014,7 +22014,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd47f7e0-ed00-408f-8a44-a094c9700b61")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR024"
 			(at 143.51 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -22075,7 +22075,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR029")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -22092,7 +22092,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be7ddd20-fdda-41bf-81e7-70c78b62bdc8")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR02"
 			(at 30.48 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -22152,7 +22152,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR045")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -22171,7 +22171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c076c183-7620-4de9-a31a-16091eb67464")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR037"
 			(at 238.76 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -22232,7 +22232,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0108")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -22249,7 +22249,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1d65f95-9b24-474d-b810-81521218a26e")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR036"
 			(at 238.76 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -22309,7 +22309,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0107")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -22327,7 +22327,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1f8eea7-3b75-4cbc-be0c-99ee3716df15")
-		(property "Reference" "D13"
+		(property "Reference" "D3"
 			(at 243.84 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22446,7 +22446,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D13")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -22586,7 +22586,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf9532d6-7edc-4ba9-a211-0a0c1b20fef1")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR025"
 			(at 143.51 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -22647,7 +22647,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR030")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -22664,7 +22664,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d0272300-4dbd-4002-b7e8-5a41502b2e47")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR015"
 			(at 91.44 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -22724,7 +22724,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR054")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -22866,7 +22866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1ba1e8b-4a73-4ba2-8745-868aa0b23a18")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR035"
 			(at 229.87 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -22927,7 +22927,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0106")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -22944,7 +22944,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d32c48b6-9e7d-4194-8da5-a1585e165a26")
-		(property "Reference" "TP8"
+		(property "Reference" "TP12"
 			(at 201.168 140.716 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23006,7 +23006,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP8")
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -23024,7 +23024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d82690b2-9998-4427-a25b-c958721dbce1")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR031"
 			(at 195.58 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -23085,7 +23085,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR095")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -23103,7 +23103,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d880966e-689e-48e2-bcfd-c677ad5f2ab8")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR06"
 			(at 43.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -23163,7 +23163,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0123")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -23305,7 +23305,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "daba05fe-db9f-41c4-aceb-044ecb929d1d")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR041"
 			(at 255.27 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -23367,7 +23367,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR010")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -23385,7 +23385,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "daccb1f0-ae83-4715-b548-36c39551a97b")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR048"
 			(at 265.43 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -23446,7 +23446,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR015")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -23464,7 +23464,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbc3c79e-e2b4-4e13-8d35-43b982d967c0")
-		(property "Reference" "R37"
+		(property "Reference" "R30"
 			(at 277.876 93.218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23570,7 +23570,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R37")
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -23587,7 +23587,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbf89b73-2851-4670-a703-364eaea1f41a")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR018"
 			(at 106.68 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -23649,7 +23649,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR058")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -23831,7 +23831,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "df7f590b-30ea-4cb4-ab3c-e93bcbe7f92a")
-		(property "Reference" "J10"
+		(property "Reference" "J2"
 			(at 146.304 30.734 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23900,7 +23900,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "J10")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -23918,7 +23918,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0ca304e-3d37-46f2-8f55-b0c6a5eb2570")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR08"
 			(at 48.26 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -23979,7 +23979,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR050")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -23998,7 +23998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e18afbe7-9395-43c0-bbb5-4c9e8d40622b")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR047"
 			(at 265.43 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -24059,7 +24059,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0112")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -24076,7 +24076,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1db1159-9d88-4ac3-ba8d-5da3974884fd")
-		(property "Reference" "R38"
+		(property "Reference" "R21"
 			(at 201.676 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24184,7 +24184,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R38")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -24203,7 +24203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6a3a86d-f81a-4185-b1a1-fa910f7899cf")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR04"
 			(at 40.64 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -24263,7 +24263,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0124")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -24282,7 +24282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e76ca155-a336-4401-980b-165b11666b3c")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR040"
 			(at 247.65 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -24343,7 +24343,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0110")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -24360,7 +24360,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7850033-612c-4bea-96df-d6d343541904")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR026"
 			(at 148.59 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -24421,7 +24421,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR031")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -24439,7 +24439,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8a747ee-122a-4841-8134-d5b7b0d7abfa")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR027"
 			(at 149.86 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -24499,7 +24499,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR063")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -24517,7 +24517,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edddb6f0-f5ac-4497-a0d8-15a449ee0b44")
-		(property "Reference" "R46"
+		(property "Reference" "R9"
 			(at 59.182 165.354 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24623,7 +24623,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R46")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -24641,7 +24641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0cc07e9-a6c2-47f8-b3f4-0ab0f5f10a27")
-		(property "Reference" "L2"
+		(property "Reference" "L1"
 			(at 22.86 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24749,7 +24749,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "L2")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -24766,7 +24766,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f14d9602-d428-474b-9760-5413f9552091")
-		(property "Reference" "D2"
+		(property "Reference" "D8"
 			(at 267.716 131.826 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24875,7 +24875,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D2")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -24892,7 +24892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f182b5b1-99b4-4078-9ac5-607ea287203a")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR050"
 			(at 270.51 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -24952,7 +24952,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR023")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -24970,7 +24970,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1bbf5ce-5099-426e-8bbf-d42015bcb26b")
-		(property "Reference" "C14"
+		(property "Reference" "C4"
 			(at 44.958 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25078,7 +25078,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C14")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -25095,7 +25095,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f45da139-9b74-4aed-8908-7686cde2d273")
-		(property "Reference" "TP13"
+		(property "Reference" "TP8"
 			(at 168.91 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25201,7 +25201,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "TP13")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -25219,7 +25219,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5e43bfa-df07-4c51-975f-dd4454014210")
-		(property "Reference" "SW9"
+		(property "Reference" "SW5"
 			(at 199.898 121.666 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25326,7 +25326,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "SW9")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -25343,7 +25343,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6ce0a0e-98d3-4d5b-a8d6-7460dfc161fc")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR029"
 			(at 153.67 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -25404,7 +25404,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR034")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -25423,7 +25423,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f86eb112-7a4b-4d85-b108-9b75fc28f67a")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR043"
 			(at 256.54 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -25484,7 +25484,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR0111")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -25502,7 +25502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9637f4b-aa63-4c5e-808d-f9e492c484fc")
-		(property "Reference" "L5"
+		(property "Reference" "L4"
 			(at 73.66 16.51 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25608,7 +25608,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "L5")
+					(reference "L4")
 					(unit 1)
 				)
 			)
@@ -25625,7 +25625,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fa6a132d-3fe4-479e-9d73-e4125965b69f")
-		(property "Reference" "C15"
+		(property "Reference" "C5"
 			(at 58.166 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25733,7 +25733,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "C15")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -25750,7 +25750,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff9e190c-b3ad-485c-9f16-aa5f818f7269")
-		(property "Reference" "D5"
+		(property "Reference" "D10"
 			(at 272.796 149.606 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25859,7 +25859,7 @@
 		(instances
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "D5")
+					(reference "D10")
 					(unit 1)
 				)
 			)
