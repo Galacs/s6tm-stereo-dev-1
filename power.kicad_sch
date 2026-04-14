@@ -4301,7 +4301,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 71.12) (xy 134.62 72.39)
+			(xy 128.27 71.12) (xy 128.27 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4518,16 +4518,6 @@
 			(type default)
 		)
 		(uuid "2215b60a-59e3-4b2c-9795-6e4b0b9f80a4")
-	)
-	(wire
-		(pts
-			(xy 133.35 72.39) (xy 134.62 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23e5355d-a68c-4403-8109-ecc92970e7d7")
 	)
 	(wire
 		(pts
@@ -10337,7 +10327,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 134.62 71.12 0)
+		(at 128.27 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10347,7 +10337,7 @@
 		(dnp no)
 		(uuid "6c6cb68c-1735-4887-a285-491e4b7799c5")
 		(property "Reference" "#PWR099"
-			(at 134.62 74.93 0)
+			(at 128.27 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10358,7 +10348,7 @@
 			)
 		)
 		(property "Value" "+Vin"
-			(at 134.62 67.056 0)
+			(at 128.27 67.056 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10368,7 +10358,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 71.12 0)
+			(at 128.27 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10379,7 +10369,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 71.12 0)
+			(at 128.27 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10390,7 +10380,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 134.62 71.12 0)
+			(at 128.27 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11335,167 +11325,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Small_Open")
-		(at 130.81 72.39 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "81eb0194-b463-4230-b84e-0f2d661703e7")
-		(property "Reference" "JP2"
-			(at 132.334 74.422 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Small_Open"
-			(at 129.5401 73.66 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 130.81 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, small symbol, open"
-			(at 130.81 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2ea2df57-1969-40d6-892a-8d7e1ad829d2")
-		)
-		(pin "1"
-			(uuid "ad8b66de-4274-4467-8c27-0588b155428c")
-		)
-		(instances
-			(project "s6tm-stereo-dev-1"
-				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 58.42 62.23 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "82651661-895b-4564-b3d0-ddd931b1aa38")
-		(property "Reference" "J8"
-			(at 58.42 65.024 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 58.42 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
-			(at 58.42 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 58.42 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 58.42 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8d5fe8de-dedd-4fd5-a92d-118d2de636ad")
-		)
-		(pin "2"
-			(uuid "fb23558f-aec7-4a8d-a422-19a904868265")
-		)
-		(instances
-			(project "s6tm-stereo-dev-1"
-				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 237.49 137.16 0)
 		(unit 1)
@@ -11956,6 +11785,87 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
 					(reference "C47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 58.42 59.69 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9e7aeb95-e09e-445b-8d1e-6efe1541edb3")
+		(property "Reference" "J8"
+			(at 58.42 56.896 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 58.42 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+			(at 58.42 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 58.42 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a234be94-7c21-47da-8a97-30fec2ee99b3")
+		)
+		(pin "2"
+			(uuid "637c5243-8689-4784-933d-0ba6bd2a6091")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
+					(reference "J8")
 					(unit 1)
 				)
 			)
