@@ -4253,10 +4253,6 @@
 		(color 0 0 0 0)
 		(uuid "fccac64e-9de2-459f-aa6f-0bf7f2ade26a")
 	)
-	(no_connect
-		(at 78.74 113.03)
-		(uuid "875579d3-b2f2-43a5-9b03-c2fe826891a9")
-	)
 	(wire
 		(pts
 			(xy 200.66 140.97) (xy 200.66 147.32)
@@ -5809,6 +5805,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 113.03) (xy 78.74 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b44cca15-5af4-47b7-ba57-19dd351e6f16")
+	)
+	(wire
+		(pts
 			(xy 78.74 123.19) (xy 77.47 123.19)
 		)
 		(stroke
@@ -6845,6 +6851,87 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Small_Open")
+		(at 77.47 115.57 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0dd97ab2-b9bd-41c1-83b2-50677b8a5c6a")
+		(property "Reference" "JP3"
+			(at 75.438 112.268 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Small_Open"
+			(at 78.74 116.8399 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 77.47 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, small symbol, open"
+			(at 77.47 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f6a08dca-da8e-4b72-a150-ee23cc7c2244")
+		)
+		(pin "1"
+			(uuid "700d3ab6-1cb3-4db4-8d56-a0561a44a430")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -9598,6 +9685,84 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
 					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 77.47 118.11 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "557c23c6-6edf-45e7-96f0-91676c029d5a")
+		(property "Reference" "#PWR0118"
+			(at 77.47 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 77.47 122.428 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 77.47 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 77.47 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 77.47 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "500dd9dd-17fd-4640-b0be-b95f8777b030")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
