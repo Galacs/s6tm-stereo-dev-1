@@ -3482,6 +3482,181 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Pers:HS96L03W2C03"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at -0.762 4.318 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "HS96L03W2C03"
+				(at -7.366 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 8.255 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C5248080.pdf"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "0.96 128x64 SSD1315 I2C LCD, OLED, Graphic RoHS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "1.2A LDO Regulator Fixed Positive"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "TSOT?23*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HS96L03W2C03_0_1"
+				(rectangle
+					(start -5.08 3.175)
+					(end 5.08 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "HS96L03W2C03_1_1"
+				(pin power_in line
+					(at 7.62 -1.27 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 7.62 1.27 180)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 -1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 1.27 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers
 				(hide yes)
@@ -4885,6 +5060,18 @@
 		)
 		(uuid "dc32150a-bd77-4e94-bb00-b83d0c7f4912")
 	)
+	(rectangle
+		(start 16.51 80.01)
+		(end 59.69 106.68)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "ea6993ad-4cb6-40b7-b861-670263a84610")
+	)
 	(text "HSE"
 		(exclude_from_sim no)
 		(at 113.03 175.768 0)
@@ -4908,6 +5095,18 @@
 			)
 		)
 		(uuid "5eb0e533-64b0-4ec0-a97c-a9acb30ad31f")
+	)
+	(text "128x64 OLED display"
+		(exclude_from_sim no)
+		(at 33.528 83.058 0)
+		(effects
+			(font
+				(size 1.905 1.905)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "675424b0-901e-4eb1-8efc-1000c3ecdea1")
 	)
 	(text "EN RC delay"
 		(exclude_from_sim no)
@@ -5289,6 +5488,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 99.06) (xy 48.26 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e772e83-3b73-4dfa-92ed-1db4ea622c52")
+	)
+	(wire
+		(pts
 			(xy 58.42 158.75) (xy 57.15 158.75)
 		)
 		(stroke
@@ -5476,6 +5685,16 @@
 			(type default)
 		)
 		(uuid "2b1860df-616e-4505-83b7-3f9490119bf0")
+	)
+	(wire
+		(pts
+			(xy 26.67 96.52) (xy 30.48 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2caf5c8e-3e6f-4a1b-a1d7-330cfbc5e5a4")
 	)
 	(wire
 		(pts
@@ -6019,6 +6238,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 96.52) (xy 45.72 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88f984f3-8064-4764-a0a5-1ce490e1be06")
+	)
+	(wire
+		(pts
 			(xy 82.55 156.21) (xy 80.01 156.21)
 		)
 		(stroke
@@ -6449,6 +6678,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 91.44) (xy 48.26 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc1b9afb-674b-4d22-b797-d14500774f0e")
+	)
+	(wire
+		(pts
 			(xy 248.92 81.28) (xy 257.81 81.28)
 		)
 		(stroke
@@ -6709,6 +6948,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 93.98) (xy 30.48 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f091405b-1e9a-4b35-b770-6a35d49cd5b2")
+	)
+	(wire
+		(pts
 			(xy 143.51 59.69) (xy 143.51 62.23)
 		)
 		(stroke
@@ -6796,6 +7045,16 @@
 			(type default)
 		)
 		(uuid "fa3561fc-7b69-40fa-a162-d37900b92158")
+	)
+	(wire
+		(pts
+			(xy 48.26 93.98) (xy 45.72 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb699680-791b-43aa-88ef-d5e392ae5152")
 	)
 	(wire
 		(pts
@@ -6927,6 +7186,16 @@
 		)
 		(uuid "54d192f4-c651-4e34-87b4-3fc06483fa8c")
 	)
+	(label "SCL"
+		(at 26.67 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "559435bd-6d5c-4901-a0eb-b59d3bd78be5")
+	)
 	(label "VDD_SPI"
 		(at 187.96 52.07 0)
 		(effects
@@ -7026,6 +7295,16 @@
 			(justify right bottom)
 		)
 		(uuid "98a46de4-8f5d-411f-9d3f-de275598d7c5")
+	)
+	(label "SDA"
+		(at 26.67 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d14b9a3-5b92-4839-818d-ddfaa109c74d")
 	)
 	(label "XTAL_N"
 		(at 173.99 91.44 0)
@@ -9968,6 +10247,83 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "50792a1f-02cc-44fd-b754-ce6359158c02")
+		(property "Reference" "#PWR024"
+			(at 48.26 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 51.308 101.854 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "59657345-5d6b-4823-a48e-1a370e1e95c2")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13004,6 +13360,92 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Pers:HS96L03W2C03")
+		(at 38.1 95.25 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a69a496c-a4b4-4242-b116-5e7d929b0c6d")
+		(property "Reference" "U10"
+			(at 35.814 89.916 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "HS96L03W2C03"
+			(at 37.338 100.584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Pers:HS96L03W2C03"
+			(at 38.1 86.995 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C5248080.pdf"
+			(at 38.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0.96 128x64 SSD1315 I2C LCD, OLED, Graphic RoHS"
+			(at 38.1 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "938aa9ae-0cc8-48f4-8f98-fcf3d04db0fd")
+		)
+		(pin "4"
+			(uuid "afdb2d4d-21ae-462a-bff8-6bc3491ee088")
+		)
+		(pin "2"
+			(uuid "65891426-d8ca-46a3-94be-01a5a709b3f9")
+		)
+		(pin "1"
+			(uuid "09e7a43d-ab41-4898-8209-8e58b5cb494e")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -16416,6 +16858,83 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 48.26 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f182b5b1-99b4-4078-9ac5-607ea287203a")
+		(property "Reference" "#PWR023"
+			(at 48.26 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 47.752 87.376 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 48.26 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "573deccf-bca2-4fb7-9c17-8528d1dc9b0a")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
