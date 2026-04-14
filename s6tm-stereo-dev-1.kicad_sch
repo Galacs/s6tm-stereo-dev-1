@@ -10652,7 +10652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Pers:microSD_Hanbo_TF012"
+		(property "Footprint" "GLCS:microSD_Hanbo_TF012"
 			(at 144.78 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -13922,7 +13922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 257.81 31.496 0)
 			(hide yes)
 			(show_name no)
@@ -20225,7 +20225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Pers:HS96L03W2C03"
+		(property "Footprint" "GLCS:HS96L03W2C03"
 			(at 260.35 55.245 0)
 			(hide yes)
 			(show_name no)

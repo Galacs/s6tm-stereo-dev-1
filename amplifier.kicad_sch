@@ -5946,7 +5946,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TPA311xD2"
+		(property "Value" "TPA3118D2"
 			(at 154.432 127.762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5956,7 +5956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:HTSSOP-32-1EP_6.1x11mm_P0.65mm_EP5.2x11mm_Mask4.11x4.36mm_ThermalVias"
 			(at 148.59 92.71 0)
 			(hide yes)
 			(show_name no)

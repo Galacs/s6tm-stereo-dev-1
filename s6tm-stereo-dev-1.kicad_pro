@@ -350,19 +350,19 @@
     "net_colors": null,
     "netclass_assignments": {
       "/BCLK": [
-        "SDIO"
+        "I2S"
       ],
       "/DIN": [
-        "SDIO"
+        "I2S"
       ],
       "/DOUT": [
-        "SDIO"
+        "I2S"
       ],
       "/MCLK": [
-        "SDIO"
+        "I2S"
       ],
       "/WCLK": [
-        "SDIO"
+        "I2S"
       ],
       "Net-(J2-DET)": [
         "SDIO"
@@ -548,6 +548,12 @@
           "group_by": false,
           "label": "Sim.Pins",
           "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
           "show": false
         }
       ],
