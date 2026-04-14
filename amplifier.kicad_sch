@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "ad6604f3-af3b-4f61-a4f2-ee5248abd8eb")
 	(paper "A4")
+	(title_block
+		(title "S6TM Stereo Dev 1")
+		(date "2026-04-11")
+		(rev "01")
+		(company "Rémi Ait-Younes")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers
