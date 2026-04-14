@@ -5275,6 +5275,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 124.46) (xy 123.19 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d3f8411-12d5-4a21-a867-30346f38b2bf")
+	)
+	(wire
+		(pts
 			(xy 22.86 62.23) (xy 22.86 63.5)
 		)
 		(stroke
@@ -5542,6 +5552,16 @@
 			(type default)
 		)
 		(uuid "3d95cb90-a914-403a-8acd-c15fb6049273")
+	)
+	(wire
+		(pts
+			(xy 116.84 127) (xy 123.19 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fd63865-cec3-48f2-86cd-19f98102ec93")
 	)
 	(wire
 		(pts
@@ -18722,8 +18742,8 @@
 		)
 	)
 	(sheet
-		(at 128.27 114.3)
-		(size 12.7 29.21)
+		(at 123.19 119.38)
+		(size 12.7 10.16)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -18738,7 +18758,7 @@
 		)
 		(uuid "7a1ae675-5d8b-41bf-9106-c7cdfb2cabd6")
 		(property "Sheetname" "Amplifier"
-			(at 128.27 113.5884 0)
+			(at 123.19 118.6684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18749,7 +18769,7 @@
 			)
 		)
 		(property "Sheetfile" "amplifier.kicad_sch"
-			(at 128.27 144.0946 0)
+			(at 123.19 130.1246 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18758,6 +18778,46 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "FAULTZ" input
+			(at 135.89 121.92 0)
+			(uuid "2b2b7239-4c99-4ed1-84d7-7c4d0d905dfa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "HPR" input
+			(at 123.19 127 180)
+			(uuid "418c0225-24d6-4418-8ee7-a3e5ef833a47")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "HPL" input
+			(at 123.19 124.46 180)
+			(uuid "496cf84c-ba05-4729-b805-fcf9850295d1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MUTE" input
+			(at 135.89 124.46 0)
+			(uuid "27d4d98e-848f-4c0f-83ab-5a0183c62101")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
