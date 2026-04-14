@@ -341,19 +341,19 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -365,31 +365,31 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "JLCPCB Part #",
           "name": "JLCPCB Part #",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Manufacturer",
           "name": "Manufacturer",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Manufacturer Part Number",
           "name": "Manufacturer Part Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Basic",
           "name": "Basic",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -401,6 +401,12 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
           "show": false
         }
       ],
@@ -452,7 +458,7 @@
         "uuid": "41fad0d7-0cae-453e-a16c-bdf8be036e99"
       }
     ],
-    "used_designators": "Q1-2,U2-3,U5-6,U8-10,JP2,TP1-2,TP4-7,R3-4,R10,R12-13,R20-25,R30-34,#FLG3,#FLG6,#FLG8,SW1-10,J4,J9,J11,#PWR1-2,#PWR6-9,#PWR12,#PWR14,#PWR16,#PWR18,#PWR21,#PWR25-28,#PWR32-33,#PWR35-40,#PWR42-44,#PWR47-48,#PWR67-71,#PWR89-110,L6-10,D6,D9-10,D12-14,C1-4,C6,C9-11,C22-23,C30-31,C45-61",
+    "used_designators": "Q1-2,U2-3,U5-6,U8-10,JP2,TP1-2,TP4-7,R3-4,R10,R12-13,R20-25,R30-34,#FLG3,#FLG6,#FLG8,SW1-10,J4,J9,J11,#PWR1-2,#PWR6-9,#PWR12,#PWR14,#PWR16,#PWR18-19,#PWR21,#PWR25-28,#PWR32-33,#PWR35-40,#PWR42-44,#PWR47-48,#PWR67-71,#PWR89-110,L6-10,D6,D9-10,D12-14,C1-4,C6,C9-11,C22-23,C30-31,C45-61",
     "variants": []
   },
   "sheets": [
