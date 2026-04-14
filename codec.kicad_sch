@@ -3880,7 +3880,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics "
+		(property "Manufacturer" "Murata"
 			(at 173.99 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3891,7 +3891,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21A476MQYNNNE"
+		(property "Manufacturer Part Number" "GRM21BR61H106KE43L"
 			(at 173.99 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3913,7 +3913,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C16780"
+		(property "JLCPCB Part #" "C440198"
 			(at 173.99 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3995,6 +3995,50 @@
 			)
 		)
 		(property "Description" "Low Power Audio Codec with Audio Processing and Mono Class‑D Amplifier, VQFN-32"
+			(at 147.32 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "X"
+			(at 147.32 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C478458"
+			(at 147.32 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 147.32 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "TLV320AIC3100IRHBR"
 			(at 147.32 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5539,7 +5583,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Samsung Electro-Mechanics "
+		(property "Manufacturer" "Murata"
 			(at 171.45 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5550,7 +5594,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21A476MQYNNNE"
+		(property "Manufacturer Part Number" "GRM21BR61H106KE43L"
 			(at 171.45 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5572,7 +5616,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C16780"
+		(property "JLCPCB Part #" "C440198"
 			(at 171.45 102.87 0)
 			(hide yes)
 			(show_name no)
