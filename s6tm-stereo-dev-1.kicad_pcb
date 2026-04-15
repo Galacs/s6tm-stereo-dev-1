@@ -4270,11 +4270,11 @@
 	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "1e549367-1220-43fe-8936-44bfe6643936")
-		(at 28.75 142.9)
+		(at 192.1425 118.225 90)
 		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
 		(tags "fiducial")
 		(property "Reference" "FID1"
-			(at 0 -1.95 0)
+			(at 0 -1.95 90)
 			(layer "F.SilkS")
 			(uuid "4138692a-e191-4dd3-8d86-988746408e5e")
 			(effects
@@ -4285,7 +4285,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 0 1.95 0)
+			(at 0 1.95 90)
 			(layer "F.Fab")
 			(uuid "dcaab5aa-e962-490d-85ce-d86d46691839")
 			(effects
@@ -4296,7 +4296,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c49e06be-bac6-4a54-a151-2ecb5616bf69")
@@ -4307,7 +4307,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "441e58ba-7aed-40c2-9720-02d9955d385e")
@@ -4318,7 +4318,7 @@
 			)
 		)
 		(property "KiLib_Generator" "fiducial"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4ff91a35-e946-49be-b688-b493758285fa")
@@ -4364,7 +4364,7 @@
 			(uuid "890c0066-37b6-4040-924c-a57243513084")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "e0488bc8-3ac5-4d1a-b17a-01be677b4024")
 			(effects
@@ -4375,7 +4375,7 @@
 			)
 		)
 		(pad "" smd circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
 			(solder_mask_margin 0.5)
@@ -6827,11 +6827,11 @@
 	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "2acdc9e0-c02f-450a-a36a-bd76ba5e0c8d")
-		(at 28.75 146.45)
+		(at 196 79 90)
 		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
 		(tags "fiducial")
 		(property "Reference" "FID2"
-			(at 0 -1.95 0)
+			(at 0 -1.95 90)
 			(layer "F.SilkS")
 			(uuid "85367b3e-7294-4f1d-b3be-86c9dd46b3cc")
 			(effects
@@ -6842,7 +6842,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 0 1.95 0)
+			(at 0 1.95 90)
 			(layer "F.Fab")
 			(uuid "f811a00a-7305-4448-93db-69c6d269f69d")
 			(effects
@@ -6853,7 +6853,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "69014dca-9c0f-4912-b58f-6320bdad1da8")
@@ -6864,7 +6864,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3866295b-42d4-43bd-b456-e2307412d558")
@@ -6875,7 +6875,7 @@
 			)
 		)
 		(property "KiLib_Generator" "fiducial"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "31833e43-d026-4adf-ba84-4fba4302cdf6")
@@ -6921,7 +6921,7 @@
 			(uuid "2cd77893-c712-41f5-8fba-e1a653747c7d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "589c7ff7-b15e-4d63-89bd-5c692b9a7e88")
 			(effects
@@ -6932,7 +6932,7 @@
 			)
 		)
 		(pad "" smd circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
 			(solder_mask_margin 0.5)
@@ -10317,11 +10317,11 @@
 	(footprint "Fiducial:Fiducial_1mm_Mask2mm"
 		(layer "F.Cu")
 		(uuid "3d3dc6c4-5779-4a8f-ba97-4bc58d8b555a")
-		(at 28.75 150)
+		(at 127 105.25 90)
 		(descr "Fiducial, circular marking, 1mm bare copper, 2mm soldermask opening (Level A)")
 		(tags "fiducial")
 		(property "Reference" "FID3"
-			(at 0 -1.95 0)
+			(at 0 -1.95 90)
 			(layer "F.SilkS")
 			(uuid "a3ce81a8-8f24-4ef4-9ea5-f14d750379ab")
 			(effects
@@ -10332,7 +10332,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 0 1.95 0)
+			(at 0 1.95 90)
 			(layer "F.Fab")
 			(uuid "bc3897e1-4701-4b36-a80f-0b06df4fcda0")
 			(effects
@@ -10343,7 +10343,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae9a90f6-dcb7-4aed-9993-3d6104fdf5bd")
@@ -10354,7 +10354,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e164af24-be2c-4c7d-a004-4fee0147ac88")
@@ -10365,7 +10365,7 @@
 			)
 		)
 		(property "KiLib_Generator" "fiducial"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "eb69d5ed-e3a5-4a35-a192-03b5dea3b92a")
@@ -10411,7 +10411,7 @@
 			(uuid "bd5b8246-e0cd-4b08-beb3-3ce834a33d90")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "728fa439-fe41-4fa5-9ecf-3fa0bb609604")
 			(effects
@@ -10422,7 +10422,7 @@
 			)
 		)
 		(pad "" smd circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1 1)
 			(layers "F.Cu" "F.Mask")
 			(solder_mask_margin 0.5)
@@ -10434,11 +10434,11 @@
 	(footprint "MountingHole:ToolingHole_1.152mm"
 		(layer "F.Cu")
 		(uuid "3df6b2a7-df77-4936-8fdb-485488edcc44")
-		(at 31.75 144.8)
+		(at 123 105.25 90)
 		(descr "Tooling Hole 1.152mm, 1.3mm solder mask, JLCPCB specification, https://jlcpcb.com/help/article/How-to-add-tooling-holes-for-PCB-assembly-order")
 		(tags "mounting")
 		(property "Reference" "H6"
-			(at 0 -1.5 0)
+			(at 0 -1.5 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e9a207d4-c00d-48dd-837b-6aef254d164e")
@@ -10450,7 +10450,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 1.6 0)
+			(at 0 1.6 90)
 			(layer "F.Fab")
 			(uuid "340a05a3-1028-4e9f-9bc8-7c12b91b9e7b")
 			(effects
@@ -10461,7 +10461,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10474,7 +10474,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10510,7 +10510,7 @@
 			(uuid "80f54c6b-70a3-4fa4-b17b-e3a23e918290")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "a1736d62-9046-49f2-bb2e-f2b15247f5fd")
 			(effects
@@ -10521,7 +10521,7 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1.152 1.152)
 			(drill 1.152)
 			(layers "*.Cu" "*.Mask")
@@ -10554,13 +10554,13 @@
 			)
 			(polygon
 				(pts
-					(xy 32.45 144.8) (xy 32.429659 144.632479) (xy 32.369819 144.474694) (xy 32.273958 144.335814)
-					(xy 32.147645 144.223911) (xy 31.998223 144.145489) (xy 31.834376 144.105104) (xy 31.665624 144.105104)
-					(xy 31.501777 144.145489) (xy 31.352355 144.223911) (xy 31.226042 144.335814) (xy 31.130181 144.474694)
-					(xy 31.070341 144.632479) (xy 31.05 144.8) (xy 31.070341 144.967521) (xy 31.130181 145.125306)
-					(xy 31.226042 145.264186) (xy 31.352355 145.376089) (xy 31.501777 145.454511) (xy 31.665624 145.494896)
-					(xy 31.834376 145.494896) (xy 31.998223 145.454511) (xy 32.147645 145.376089) (xy 32.273958 145.264186)
-					(xy 32.369819 145.125306) (xy 32.429659 144.967521)
+					(xy 123 104.55) (xy 122.832479 104.570341) (xy 122.674694 104.630181) (xy 122.535814 104.726042)
+					(xy 122.423911 104.852355) (xy 122.345489 105.001777) (xy 122.305104 105.165624) (xy 122.305104 105.334376)
+					(xy 122.345489 105.498223) (xy 122.423911 105.647645) (xy 122.535814 105.773958) (xy 122.674694 105.869819)
+					(xy 122.832479 105.929659) (xy 123 105.95) (xy 123.167521 105.929659) (xy 123.325306 105.869819)
+					(xy 123.464186 105.773958) (xy 123.576089 105.647645) (xy 123.654511 105.498223) (xy 123.694896 105.334376)
+					(xy 123.694896 105.165624) (xy 123.654511 105.001777) (xy 123.576089 104.852355) (xy 123.464186 104.726042)
+					(xy 123.325306 104.630181) (xy 123.167521 104.570341)
 				)
 			)
 		)
@@ -22664,11 +22664,11 @@
 	(footprint "MountingHole:ToolingHole_1.152mm"
 		(layer "F.Cu")
 		(uuid "80ce3b2a-4439-464b-bc87-640cf85559f2")
-		(at 31.75 142.35)
+		(at 168 73 90)
 		(descr "Tooling Hole 1.152mm, 1.3mm solder mask, JLCPCB specification, https://jlcpcb.com/help/article/How-to-add-tooling-holes-for-PCB-assembly-order")
 		(tags "mounting")
 		(property "Reference" "H5"
-			(at 0 -1.5 0)
+			(at 0 -1.5 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "09da6e3e-be01-4cee-820c-1fb605ec57d8")
@@ -22680,7 +22680,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 1.6 0)
+			(at 0 1.6 90)
 			(layer "F.Fab")
 			(uuid "5785696a-2f44-4146-87c6-73bcf91af21c")
 			(effects
@@ -22691,7 +22691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22704,7 +22704,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -22740,7 +22740,7 @@
 			(uuid "85446b39-23f1-4af5-a8b3-200caaa3e1a8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "0520e340-8e39-4bca-b9cc-1f1e7915a4ea")
 			(effects
@@ -22751,7 +22751,7 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1.152 1.152)
 			(drill 1.152)
 			(layers "*.Cu" "*.Mask")
@@ -22784,13 +22784,12 @@
 			)
 			(polygon
 				(pts
-					(xy 32.45 142.35) (xy 32.429659 142.182479) (xy 32.369819 142.024694) (xy 32.273958 141.885814)
-					(xy 32.147645 141.773911) (xy 31.998223 141.695489) (xy 31.834376 141.655104) (xy 31.665624 141.655104)
-					(xy 31.501777 141.695489) (xy 31.352355 141.773911) (xy 31.226042 141.885814) (xy 31.130181 142.024694)
-					(xy 31.070341 142.182479) (xy 31.05 142.35) (xy 31.070341 142.517521) (xy 31.130181 142.675306)
-					(xy 31.226042 142.814186) (xy 31.352355 142.926089) (xy 31.501777 143.004511) (xy 31.665624 143.044896)
-					(xy 31.834376 143.044896) (xy 31.998223 143.004511) (xy 32.147645 142.926089) (xy 32.273958 142.814186)
-					(xy 32.369819 142.675306) (xy 32.429659 142.517521)
+					(xy 168 72.3) (xy 167.832479 72.320341) (xy 167.674694 72.380181) (xy 167.535814 72.476042) (xy 167.423911 72.602355)
+					(xy 167.345489 72.751777) (xy 167.305104 72.915624) (xy 167.305104 73.084376) (xy 167.345489 73.248223)
+					(xy 167.423911 73.397645) (xy 167.535814 73.523958) (xy 167.674694 73.619819) (xy 167.832479 73.679659)
+					(xy 168 73.7) (xy 168.167521 73.679659) (xy 168.325306 73.619819) (xy 168.464186 73.523958) (xy 168.576089 73.397645)
+					(xy 168.654511 73.248223) (xy 168.694896 73.084376) (xy 168.694896 72.915624) (xy 168.654511 72.751777)
+					(xy 168.576089 72.602355) (xy 168.464186 72.476042) (xy 168.325306 72.380181) (xy 168.167521 72.320341)
 				)
 			)
 		)
@@ -31442,7 +31441,7 @@
 	(footprint "RF_Antenna:Johanson_2450AT18x100"
 		(layer "F.Cu")
 		(uuid "a79175a8-7396-4498-bfe0-969a3e0bdb8d")
-		(at 119.3925 145.925 180)
+		(at 120 145 180)
 		(descr "Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, -0.5dBi, https://www.johansontechnology.com/datasheets/2450AT18A100/2450AT18A100.pdf")
 		(tags "antenna")
 		(property "Reference" "AE1"
@@ -38276,11 +38275,11 @@
 	(footprint "MountingHole:ToolingHole_1.152mm"
 		(layer "F.Cu")
 		(uuid "c03d6a13-91b2-465f-9503-e78e1768f2f1")
-		(at 31.75 147.25)
+		(at 188.4975 138 90)
 		(descr "Tooling Hole 1.152mm, 1.3mm solder mask, JLCPCB specification, https://jlcpcb.com/help/article/How-to-add-tooling-holes-for-PCB-assembly-order")
 		(tags "mounting")
 		(property "Reference" "H7"
-			(at 0 -1.5 0)
+			(at 0 -1.5 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6f304553-b95a-4dae-b98e-5dce2474aeab")
@@ -38292,7 +38291,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 0 1.6 0)
+			(at 0 1.6 90)
 			(layer "F.Fab")
 			(uuid "73228310-3f31-456c-976a-6aad29037ba1")
 			(effects
@@ -38303,7 +38302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -38316,7 +38315,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 0 0 0)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -38352,7 +38351,7 @@
 			(uuid "1760edcf-b127-4b4f-9047-6d0cb216801a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "0688b130-6179-4255-a649-a2886367db95")
 			(effects
@@ -38363,7 +38362,7 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0 90)
 			(size 1.152 1.152)
 			(drill 1.152)
 			(layers "*.Cu" "*.Mask")
@@ -38396,13 +38395,13 @@
 			)
 			(polygon
 				(pts
-					(xy 32.45 147.25) (xy 32.429659 147.082479) (xy 32.369819 146.924694) (xy 32.273958 146.785814)
-					(xy 32.147645 146.673911) (xy 31.998223 146.595489) (xy 31.834376 146.555104) (xy 31.665624 146.555104)
-					(xy 31.501777 146.595489) (xy 31.352355 146.673911) (xy 31.226042 146.785814) (xy 31.130181 146.924694)
-					(xy 31.070341 147.082479) (xy 31.05 147.25) (xy 31.070341 147.417521) (xy 31.130181 147.575306)
-					(xy 31.226042 147.714186) (xy 31.352355 147.826089) (xy 31.501777 147.904511) (xy 31.665624 147.944896)
-					(xy 31.834376 147.944896) (xy 31.998223 147.904511) (xy 32.147645 147.826089) (xy 32.273958 147.714186)
-					(xy 32.369819 147.575306) (xy 32.429659 147.417521)
+					(xy 188.4975 137.3) (xy 188.329979 137.320341) (xy 188.172194 137.380181) (xy 188.033314 137.476042)
+					(xy 187.921411 137.602355) (xy 187.842989 137.751777) (xy 187.802604 137.915624) (xy 187.802604 138.084376)
+					(xy 187.842989 138.248223) (xy 187.921411 138.397645) (xy 188.033314 138.523958) (xy 188.172194 138.619819)
+					(xy 188.329979 138.679659) (xy 188.4975 138.7) (xy 188.665021 138.679659) (xy 188.822806 138.619819)
+					(xy 188.961686 138.523958) (xy 189.073589 138.397645) (xy 189.152011 138.248223) (xy 189.192396 138.084376)
+					(xy 189.192396 137.915624) (xy 189.152011 137.751777) (xy 189.073589 137.602355) (xy 188.961686 137.476042)
+					(xy 188.822806 137.380181) (xy 188.665021 137.320341)
 				)
 			)
 		)
@@ -48582,7 +48581,7 @@
 		)
 		(polygon
 			(pts
-				(xy 115.1575 140.425) (xy 124.6575 140.425) (xy 124.6575 147.675) (xy 115.1575 147.675)
+				(xy 117 139.75) (xy 126.5 139.75) (xy 126.5 147) (xy 117 147)
 			)
 		)
 	)
