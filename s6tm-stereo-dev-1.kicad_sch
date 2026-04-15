@@ -6786,12 +6786,6 @@
 		(uuid "279c9f10-c9cb-4bd0-8691-23f936ca01f3")
 	)
 	(junction
-		(at 139.7 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "28e48e95-ba99-406c-b8b5-0f424519670a")
-	)
-	(junction
 		(at 265.43 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6838,12 +6832,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "50091712-51ab-4762-99da-14a886b8a17d")
-	)
-	(junction
-		(at 142.24 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "549af8f8-f607-4369-85b2-294ada9d461a")
 	)
 	(junction
 		(at 208.28 146.05)
@@ -7038,6 +7026,12 @@
 		(uuid "d5704d1c-d9a1-4fea-8e6b-c1c100520f94")
 	)
 	(junction
+		(at 144.78 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d76e2c69-ab96-4379-a7e2-937eb8342f76")
+	)
+	(junction
 		(at 54.61 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7054,12 +7048,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e02678ce-02d4-4da5-92e6-c0897ac088e5")
-	)
-	(junction
-		(at 140.97 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e5f2b8a4-9288-4bd6-8de4-dbee7b453d14")
 	)
 	(junction
 		(at 72.39 157.48)
@@ -7242,16 +7230,6 @@
 			(type default)
 		)
 		(uuid "04cb0162-9f44-4a06-a6f9-15e82a1d5e65")
-	)
-	(wire
-		(pts
-			(xy 140.97 114.3) (xy 140.97 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06db3f01-dbec-4746-b1d2-8cd003ebfbb7")
 	)
 	(wire
 		(pts
@@ -7675,6 +7653,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 78.74) (xy 144.78 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28a69687-621d-40d1-a9ad-24110c0a4b06")
+	)
+	(wire
+		(pts
 			(xy 208.28 114.3) (xy 217.17 114.3)
 		)
 		(stroke
@@ -7742,16 +7730,6 @@
 			(type default)
 		)
 		(uuid "2f23e404-2984-43c4-b5ed-a6802fe12f09")
-	)
-	(wire
-		(pts
-			(xy 142.24 115.57) (xy 140.97 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fbc22b4-646d-4572-89cb-af378a670601")
 	)
 	(wire
 		(pts
@@ -7892,16 +7870,6 @@
 			(type default)
 		)
 		(uuid "3b1833b6-b2ba-4f27-80bc-e86de08f02d0")
-	)
-	(wire
-		(pts
-			(xy 127 125.73) (xy 142.24 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3bbce4ce-764b-42d6-a152-3961e544c48f")
 	)
 	(wire
 		(pts
@@ -8365,6 +8333,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 80.01) (xy 144.78 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c27929f-4011-40f1-9ddd-4c47e9b1f4b3")
+	)
+	(wire
+		(pts
 			(xy 54.61 20.32) (xy 54.61 21.59)
 		)
 		(stroke
@@ -8415,13 +8393,13 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 90.17) (xy 127 90.17)
+			(xy 143.51 88.9) (xy 143.51 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6f90c9b5-0b97-4b4f-aaaa-0dd411b4e152")
+		(uuid "6f97d435-feba-48be-a1a6-e4483e995025")
 	)
 	(wire
 		(pts
@@ -8462,6 +8440,16 @@
 			(type default)
 		)
 		(uuid "713fea79-6da1-4c1e-813b-d62b80b6decb")
+	)
+	(wire
+		(pts
+			(xy 143.51 80.01) (xy 144.78 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71856a5c-2d65-4bb3-a691-ebe5f64fba32")
 	)
 	(wire
 		(pts
@@ -8552,6 +8540,16 @@
 			(type default)
 		)
 		(uuid "7ab32045-2448-4d54-8e19-ae90d7cfbdb2")
+	)
+	(wire
+		(pts
+			(xy 143.51 81.28) (xy 143.51 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c143cfd-2e68-47f4-8855-54474277e323")
 	)
 	(wire
 		(pts
@@ -8715,16 +8713,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 124.46) (xy 139.7 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "88b17f8e-7451-4bc3-abde-bda271119f97")
-	)
-	(wire
-		(pts
 			(xy 270.51 64.77) (xy 267.97 64.77)
 		)
 		(stroke
@@ -8762,16 +8750,6 @@
 			(type default)
 		)
 		(uuid "8cf51fb5-d8f9-4717-b7a4-54cfd208013f")
-	)
-	(wire
-		(pts
-			(xy 142.24 116.84) (xy 142.24 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cf90ec3-03f7-4af5-ac46-4c1d79eee07c")
 	)
 	(wire
 		(pts
@@ -8915,16 +8893,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 116.84) (xy 139.7 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9847ff71-212f-4263-827b-dfa2b838dfa6")
-	)
-	(wire
-		(pts
 			(xy 203.2 146.05) (xy 208.28 146.05)
 		)
 		(stroke
@@ -8932,6 +8900,16 @@
 			(type default)
 		)
 		(uuid "9924599f-44d7-4ac2-b2da-3d881abcf0bf")
+	)
+	(wire
+		(pts
+			(xy 135.89 128.27) (xy 127 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99308111-685a-443b-bc5f-e6fa5dbdc26b")
 	)
 	(wire
 		(pts
@@ -8985,6 +8963,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 92.71) (xy 146.05 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d1ba1e3-cfad-4ddb-bcba-1accb9135144")
+	)
+	(wire
+		(pts
 			(xy 270.51 39.37) (xy 270.51 38.1)
 		)
 		(stroke
@@ -9002,6 +8990,16 @@
 			(type default)
 		)
 		(uuid "9db88fbd-e258-4dfb-b1f6-3aa1a69d7e70")
+	)
+	(wire
+		(pts
+			(xy 135.89 125.73) (xy 127 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ea2591d-2670-4be4-9294-c5fd5c6530e9")
 	)
 	(wire
 		(pts
@@ -9055,6 +9053,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 90.17) (xy 143.51 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a26af849-4aa3-4680-b857-a281b1828a75")
+	)
+	(wire
+		(pts
 			(xy 93.98 34.29) (xy 95.25 34.29)
 		)
 		(stroke
@@ -9095,6 +9103,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 81.28) (xy 146.05 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a754931b-209e-45b9-ac36-ed4e56c8d98a")
+	)
+	(wire
+		(pts
 			(xy 60.96 120.65) (xy 55.88 120.65)
 		)
 		(stroke
@@ -9112,16 +9130,6 @@
 			(type default)
 		)
 		(uuid "a8b37470-2bab-41fa-8971-955d9cdbcc29")
-	)
-	(wire
-		(pts
-			(xy 139.7 115.57) (xy 140.97 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8db748f-d466-4b56-a7ea-c8513187c78c")
 	)
 	(wire
 		(pts
@@ -9305,16 +9313,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 125.73) (xy 151.13 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9710a10-0ba1-4c3f-bc30-42650075df1d")
-	)
-	(wire
-		(pts
 			(xy 254 153.67) (xy 255.27 153.67)
 		)
 		(stroke
@@ -9405,16 +9403,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 128.27) (xy 151.13 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea17ea6-69dd-4c13-b858-8d3e86e02b9e")
-	)
-	(wire
-		(pts
 			(xy 143.51 45.72) (xy 143.51 35.56)
 		)
 		(stroke
@@ -9432,16 +9420,6 @@
 			(type default)
 		)
 		(uuid "bfbe8c14-ba84-4e82-8c5f-192f20ee15aa")
-	)
-	(wire
-		(pts
-			(xy 134.62 92.71) (xy 127 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c142c468-5666-4137-b562-ba732983869d")
 	)
 	(wire
 		(pts
@@ -9672,16 +9650,6 @@
 			(type default)
 		)
 		(uuid "d2c6a612-11aa-4db4-a5a3-774b12301732")
-	)
-	(wire
-		(pts
-			(xy 127 128.27) (xy 139.7 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d491bf6c-a1f3-4ce3-840b-2453f151a71d")
 	)
 	(wire
 		(pts
@@ -10065,16 +10033,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 124.46) (xy 142.24 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f51e8421-0422-4d9d-a39d-fcad49d61f9c")
-	)
-	(wire
-		(pts
 			(xy 91.44 20.32) (xy 91.44 21.59)
 		)
 		(stroke
@@ -10175,6 +10133,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 92.71) (xy 146.05 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc2d98a1-baf1-4839-b668-1f0c28a2f209")
+	)
+	(wire
+		(pts
 			(xy 31.75 45.72) (xy 35.56 45.72)
 		)
 		(stroke
@@ -10212,6 +10180,16 @@
 			(justify right bottom)
 		)
 		(uuid "0a0430dc-f076-4bc3-b5fa-1f089ddd5391")
+	)
+	(label "DIN"
+		(at 135.89 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "13c3531d-857d-417e-becc-f6e7a75d26bb")
 	)
 	(label "GPIO1"
 		(at 134.62 100.33 180)
@@ -10283,16 +10261,6 @@
 		)
 		(uuid "2825abd8-035e-4686-b9a8-1187dac9184f")
 	)
-	(label "SDA"
-		(at 151.13 128.27 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2f240ff3-7fdd-403b-8eb7-8de0c93a092c")
-	)
 	(label "SW_A"
 		(at 217.17 105.41 180)
 		(effects
@@ -10313,6 +10281,16 @@
 		)
 		(uuid "39277d40-318c-4226-87ab-5fba0c8747d5")
 	)
+	(label "DOUT"
+		(at 135.89 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "393b6c03-0120-416f-a7ac-5757e598eb18")
+	)
 	(label "MCLK"
 		(at 173.99 57.15 0)
 		(effects
@@ -10323,6 +10301,16 @@
 		)
 		(uuid "3a900aac-99b4-4c05-9350-bfb821e85097")
 	)
+	(label "SDA"
+		(at 134.62 92.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3cddc6ea-7dcb-44b6-b693-25208f7265dd")
+	)
 	(label "U0RXD"
 		(at 128.27 59.69 0)
 		(effects
@@ -10332,16 +10320,6 @@
 			(justify left bottom)
 		)
 		(uuid "3ece0af8-ab3a-4a93-b1fa-7b3ebda2afe8")
-	)
-	(label "SCL"
-		(at 151.13 125.73 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "458619f4-d7ea-4a33-b2d2-a55ab2784a18")
 	)
 	(label "GPIO1"
 		(at 173.99 34.29 0)
@@ -10362,6 +10340,16 @@
 			(justify left bottom)
 		)
 		(uuid "4fc215c0-0f26-4647-89a7-30db88a7ff92")
+	)
+	(label "SCL"
+		(at 134.62 90.17 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "50175b98-db62-4641-bfaa-077150c92b54")
 	)
 	(label "PG"
 		(at 134.62 85.09 180)
@@ -10403,6 +10391,16 @@
 		)
 		(uuid "5a0c171b-9593-4f2f-8af0-f5ecda37bfb2")
 	)
+	(label "WCLK"
+		(at 151.13 101.6 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5bbba5fa-bd6d-469c-a47e-fa5b6de3d1cf")
+	)
 	(label "VDD_SPI"
 		(at 66.04 38.1 0)
 		(effects
@@ -10422,16 +10420,6 @@
 			(justify left bottom)
 		)
 		(uuid "6260bafc-de3e-4eba-9617-5c69a23e76ef")
-	)
-	(label "WCLK"
-		(at 134.62 97.79 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "6272a784-1f21-4728-bbc2-3726152c3721")
 	)
 	(label "~{RESET}"
 		(at 134.62 102.87 180)
@@ -10482,16 +10470,6 @@
 			(justify right bottom)
 		)
 		(uuid "71ec8242-73a1-4d19-8ee4-d0865977367b")
-	)
-	(label "BCLK"
-		(at 144.78 87.63 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "72dd4d12-c36d-4ff0-820b-89627258ce54")
 	)
 	(label "WCLK"
 		(at 173.99 59.69 0)
@@ -10663,6 +10641,16 @@
 		)
 		(uuid "b658d47e-f20c-48a4-8ea8-d95f6bc978f2")
 	)
+	(label "BCLK"
+		(at 134.62 97.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ba6569b0-cb6f-430a-b027-1c5f2c196ab1")
+	)
 	(label "D-"
 		(at 148.59 67.31 180)
 		(effects
@@ -10672,16 +10660,6 @@
 			(justify right bottom)
 		)
 		(uuid "c0b322e8-b51e-4c92-a380-a536ce088b0b")
-	)
-	(label "DOUT"
-		(at 134.62 90.17 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c8ab75d1-5caf-4182-a82f-cdff0f378173")
 	)
 	(label "D+"
 		(at 275.59 144.78 180)
@@ -10702,16 +10680,6 @@
 			(justify right bottom)
 		)
 		(uuid "d4b3465c-c2b2-42b2-aa70-cb210d023a6e")
-	)
-	(label "DIN"
-		(at 134.62 92.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d4fb5e91-e3e7-497e-8b09-24c53be29d69")
 	)
 	(label "FAULTZ"
 		(at 134.62 105.41 180)
@@ -13295,129 +13263,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 142.24 120.65 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "272e38a4-b71e-463a-add2-18d6cf183369")
-		(property "Reference" "R20"
-			(at 146.05 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 146.05 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 140.462 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 142.24 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 142.24 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Basic" "Y"
-			(at 142.24 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Part #" "C25744"
-			(at 142.24 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Uniroyal Elec"
-			(at 142.24 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF1002TCE"
-			(at 142.24 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "49bb5437-6e2f-4103-a054-b33289d65823")
-		)
-		(pin "1"
-			(uuid "0b0f88dc-4862-4e52-9153-afa1390db376")
-		)
-		(instances
-			(project "s6tm-stereo-dev-1"
-				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+1V8")
 		(at 256.54 91.44 0)
 		(unit 1)
@@ -13971,6 +13816,129 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
 					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 146.05 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "37683b08-e34c-43ed-8af7-d32a726d7bf4")
+		(property "Reference" "R20"
+			(at 149.86 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 149.86 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 144.272 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 146.05 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 146.05 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25744"
+			(at 146.05 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 146.05 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF1002TCE"
+			(at 146.05 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e5c6adf1-51b6-41a9-912f-946a75079a0d")
+		)
+		(pin "1"
+			(uuid "c3bf66ce-7fbc-44d6-b5cd-6222726e738e")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -15500,129 +15468,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 139.7 120.65 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "46c9712b-132b-439f-a503-990d4125d8ac")
-		(property "Reference" "R17"
-			(at 136.398 120.142 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 136.398 122.682 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 137.922 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 139.7 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Basic" "Y"
-			(at 139.7 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Part #" "C25744"
-			(at 139.7 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Uniroyal Elec"
-			(at 139.7 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "0402WGF1002TCE"
-			(at 139.7 120.65 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1cc62865-2e6f-49a2-b62d-f963a0d83147")
-		)
-		(pin "1"
-			(uuid "df359a50-9b7f-434d-964e-12b1f30af1fc")
-		)
-		(instances
-			(project "s6tm-stereo-dev-1"
-				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "R17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 54.61 33.02 0)
 		(unit 1)
@@ -16986,83 +16831,6 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
 					(reference "L5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 140.97 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "5f930d98-7be5-4ef3-89ed-ea3ecf843775")
-		(property "Reference" "#PWR023"
-			(at 140.97 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 144.78 112.268 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 140.97 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bbbf003f-4ae2-4268-889b-c9494c6e58c3")
-		)
-		(instances
-			(project "s6tm-stereo-dev-1"
-				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
-					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -22030,6 +21798,129 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 143.51 85.09 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "acac531b-1fef-47e7-9065-162a22e02e94")
+		(property "Reference" "R17"
+			(at 140.208 84.582 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 140.208 87.122 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 141.732 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 143.51 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 143.51 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25744"
+			(at 143.51 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 143.51 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF1002TCE"
+			(at 143.51 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "753815fd-5e84-46ba-8ebf-7d588603ba89")
+		)
+		(pin "1"
+			(uuid "8a6abd43-fa8b-4113-bbc2-fe7f7c832aa0")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 265.43 91.44 0)
 		(unit 1)
@@ -25182,6 +25073,83 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
 					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 144.78 78.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e3b2c2e8-563c-4f0d-b852-40a98cefddc0")
+		(property "Reference" "#PWR023"
+			(at 144.78 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 148.59 76.708 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 144.78 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "62ab9b9e-5e43-4e36-b495-b1dcbce91d33")
+		)
+		(instances
+			(project "s6tm-stereo-dev-1"
+				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
