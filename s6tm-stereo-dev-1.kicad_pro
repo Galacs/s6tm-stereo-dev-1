@@ -863,7 +863,7 @@
         "uuid": "41fad0d7-0cae-453e-a16c-bdf8be036e99"
       }
     ],
-    "used_designators": "#PWR23,TP15,R3,R17,R20,C32-33,C62,J8",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
