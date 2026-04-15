@@ -7219,7 +7219,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 90.17) (xy 60.96 90.17)
+			(xy 52.07 87.63) (xy 60.96 87.63)
 		)
 		(stroke
 			(width 0)
@@ -9169,7 +9169,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 102.87) (xy 127 102.87)
+			(xy 134.62 102.87) (xy 127 102.87)
 		)
 		(stroke
 			(width 0)
@@ -9319,7 +9319,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 105.41) (xy 127 105.41)
+			(xy 134.62 105.41) (xy 127 105.41)
 		)
 		(stroke
 			(width 0)
@@ -9399,7 +9399,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 87.63) (xy 52.07 87.63)
+			(xy 60.96 90.17) (xy 52.07 90.17)
 		)
 		(stroke
 			(width 0)
@@ -10009,7 +10009,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 118.11) (xy 127 118.11)
+			(xy 134.62 118.11) (xy 127 118.11)
 		)
 		(stroke
 			(width 0)
@@ -10247,6 +10247,16 @@
 		)
 		(uuid "1ae2fe80-2973-4482-a9f4-b2a02c6eb95f")
 	)
+	(label "ENC_A"
+		(at 134.62 118.11 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1e0b249d-7f23-4f66-a26d-994e323c2f0b")
+	)
 	(label "XTAL_P"
 		(at 129.54 180.34 0)
 		(effects
@@ -10428,7 +10438,7 @@
 		(uuid "5e46066f-b01f-4eca-a3e5-29734046a0f2")
 	)
 	(label "ENC_SW"
-		(at 52.07 87.63 0)
+		(at 52.07 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10518,7 +10528,7 @@
 		(uuid "7edf9a1c-e250-46ee-b0b2-ae54ea89c96c")
 	)
 	(label "DIN"
-		(at 135.89 102.87 180)
+		(at 134.62 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10586,6 +10596,16 @@
 			(justify right bottom)
 		)
 		(uuid "999a8b06-d411-4ce5-8e72-27bf51a02608")
+	)
+	(label "ENC_B"
+		(at 52.07 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9af9ef8c-9060-45e5-bd9c-f32f3a0bc075")
 	)
 	(label "FAULTZ"
 		(at 134.62 110.49 180)
@@ -10658,7 +10678,7 @@
 		(uuid "afff7fe9-e0d9-4e64-b71c-3f1deaea6792")
 	)
 	(label "DOUT"
-		(at 135.89 105.41 180)
+		(at 134.62 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10757,16 +10777,6 @@
 		)
 		(uuid "ddc3dc61-808d-4f55-802a-b295336fcb8c")
 	)
-	(label "ENC_A"
-		(at 52.07 90.17 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e16d940d-61d5-46b4-848f-f0ea6e5d7565")
-	)
 	(label "MCLK"
 		(at 134.62 95.25 180)
 		(effects
@@ -10806,16 +10816,6 @@
 			(justify right bottom)
 		)
 		(uuid "eb176b61-286a-4389-b234-1853a0e49a0c")
-	)
-	(label "ENC_B"
-		(at 135.89 118.11 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f7dca7a4-e98b-4c63-9a5e-8799ef988287")
 	)
 	(label "MUTE"
 		(at 222.25 41.91 180)
