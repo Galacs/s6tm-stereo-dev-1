@@ -31441,7 +31441,7 @@
 	(footprint "RF_Antenna:Johanson_2450AT18x100"
 		(layer "F.Cu")
 		(uuid "a79175a8-7396-4498-bfe0-969a3e0bdb8d")
-		(at 120 145 180)
+		(at 121 143.75 180)
 		(descr "Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, -0.5dBi, https://www.johansontechnology.com/datasheets/2450AT18A100/2450AT18A100.pdf")
 		(tags "antenna")
 		(property "Reference" "AE1"
@@ -48544,16 +48544,89 @@
 			)
 		)
 	)
-	(gr_rect
-		(start 117 67)
-		(end 202 147)
+	(gr_arc
+		(start 117 72)
+		(mid 118.464466 68.464466)
+		(end 122 67)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
-		(fill no)
 		(layer "Edge.Cuts")
-		(uuid "c7257534-e187-48d5-b01a-8d73a2067f36")
+		(uuid "62a9b157-8838-4ebf-a4e5-4574b4664b96")
+	)
+	(gr_line
+		(start 117 142)
+		(end 117 72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "11db0a7b-7a94-4807-a982-35dfe4725193")
+	)
+	(gr_line
+		(start 122 67)
+		(end 197 67)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bde92ce7-0f3e-41b7-beba-173af0770578")
+	)
+	(gr_arc
+		(start 122 147)
+		(mid 118.464466 145.535534)
+		(end 117 142)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dde84e25-1f67-4cf4-80cc-1c988f4d8fb6")
+	)
+	(gr_arc
+		(start 197 67)
+		(mid 200.535534 68.464466)
+		(end 202 72)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ed2b2de3-af3e-453a-980e-c1bc474c899d")
+	)
+	(gr_line
+		(start 197 147)
+		(end 122 147)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3867f18c-e747-4856-8e71-2e736d3c761c")
+	)
+	(gr_line
+		(start 202 72)
+		(end 202 142)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ff1fd8cb-b14e-4431-ab07-222fb36af4dc")
+	)
+	(gr_arc
+		(start 202 142)
+		(mid 200.535534 145.535534)
+		(end 197 147)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c10ef150-156c-49c7-8b7d-7277ca392ef6")
 	)
 	(zone
 		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
