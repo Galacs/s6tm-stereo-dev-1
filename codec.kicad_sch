@@ -2087,7 +2087,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "4W"
+	(text "2.5W"
 		(exclude_from_sim no)
 		(at 176.53 97.282 0)
 		(effects
