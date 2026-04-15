@@ -3822,12 +3822,6 @@
 		(uuid "00d6f6c2-07d6-4c2e-a072-76422162f4b2")
 	)
 	(junction
-		(at 144.78 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0232e9a7-fb36-46b8-a9b4-9db5d6589601")
-	)
-	(junction
 		(at 59.69 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5563,7 +5557,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 49.53) (xy 144.78 53.34)
+			(xy 144.78 49.53) (xy 144.78 97.79)
 		)
 		(stroke
 			(width 0)
@@ -5850,16 +5844,6 @@
 			(type default)
 		)
 		(uuid "c5715394-db48-4d5f-aa81-e476a9f501ca")
-	)
-	(wire
-		(pts
-			(xy 144.78 53.34) (xy 144.78 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c87d0462-225a-47c9-a7a4-1857fa01e799")
 	)
 	(wire
 		(pts
@@ -8068,86 +8052,6 @@
 			(project "s6tm-stereo-dev-1"
 				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
 					(reference "U6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 144.78 53.34 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2af2336f-a2cb-4f4b-b4dc-09584eaa91e9")
-		(property "Reference" "TP15"
-			(at 149.86 53.3399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 146.8121 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.0mm"
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 144.78 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c376fcc9-cb29-4e21-9c80-4392a17355c2")
-		)
-		(instances
-			(project "s6tm-stereo-dev-1"
-				(path "/41fad0d7-0cae-453e-a16c-bdf8be036e99/16b0527c-413f-47f6-bff3-a7959715851d"
-					(reference "TP15")
 					(unit 1)
 				)
 			)
