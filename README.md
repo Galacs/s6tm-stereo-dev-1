@@ -14,7 +14,11 @@ ESP32S3 based stereo audio developement board with oled display
 
 ## Top preview
 
+<img width="925" height="857" alt="image" src="https://github.com/user-attachments/assets/6265014d-7aae-4dde-a030-087c65539a98" />
+
 ## Preview 3d render
+
+<img width="1108" height="880" alt="image" src="https://github.com/user-attachments/assets/c90eed34-7a75-4b4b-92df-34b655f65c67" />
 
 ## Pictures
 
